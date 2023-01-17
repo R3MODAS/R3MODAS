@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharadindu Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3modas&label=Profile%20views&color=0e75b6&style=flat" alt="r3modas" /> </p>
