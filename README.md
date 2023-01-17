@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BKZq4efyvF3QYCjTML8I0l3t9t83UQ_A/view?usp=share_link](https://drive.google.com/file/d/1BKZq4efyvF3QYCjTML8I0l3t9t83UQ_A/view?usp=share_link)
 
-- ⚡ Fun fact **Add me up for some Tech and Life talks as well ☕**
+- ⚡ Fun fact ** Introvert by heart but extrovert by passion for coding ❤✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
