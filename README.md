@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Development to Build Websites**
 
-- 🤝 I’m looking for help with **Frontend Projects**
+- 🤝 I’m looking for help with **Web Development**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JS and C**
 
