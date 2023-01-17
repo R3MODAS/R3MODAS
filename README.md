@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharadindu Das</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<img align="right" width="400" alt="coding" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="r3modas" /> </p>
+<img align="right" width="300" alt="coding" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="r3modas" /> </p>
 
 - 🔭 I’m currently working on **Frontend Development**
 
