@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS and C**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap and C**
 
 - 📫 How to reach me **remodas7774@gmail.com**
 
