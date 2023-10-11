@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharadindu Das</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3modas&label=Profile%20views&color=0e75b6&style=flat" alt="r3modas" /> </p>
-
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **React & JS(Advanced)**
