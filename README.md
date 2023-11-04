@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **remodas7774@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LGg16aaz_E7sfsJzDvpjZrTmoSJ2KVBf/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LGg16aaz_E7sfsJzDvpjZrTmoSJ2KVBf/view?usp=sharing)
 
 - ⚡ Fun fact **Introvert by Heart but Extrovert from Coding ☕**
 
