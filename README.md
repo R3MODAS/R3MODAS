@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React & JS(Advanced)**
 
-- 💬 Ask me about **HTML, CSS, JS, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, JS, React, Tailwind**
 
 - 📫 How to reach me **remodas7774@gmail.com**
 
