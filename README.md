@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **HTML, CSS, JS, React, Tailwind**
+- 💬 Ask me about **Anything about Web Development**
 
 - 📫 How to reach me **remodas7774@gmail.com**
 
